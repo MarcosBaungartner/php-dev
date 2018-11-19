@@ -15,3 +15,13 @@ function request() {
 
   return $_GET;
 }
+
+/* Função para redirecionar a página especificada no argumento */
+function redirect($target) {
+  return header("location:/?page={$target}");
+}
+
+/* Função para redirecionar para a página Home */
+function redirectToHome() {
+  return header("location:/");
+}

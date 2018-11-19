@@ -4,6 +4,6 @@
 
 - Pagina contato.php
 - Submit com validação de campos
+- Implementado send() email
 
-LinkedIn: [Marcos 
-Baungartner](https://www.linkedin.com/in/marcos-baungartner-242a3151/)
+LinkedIn: [MarcosBaungartner](https://www.linkedin.com/in/marcos-baungartner-242a3151/)

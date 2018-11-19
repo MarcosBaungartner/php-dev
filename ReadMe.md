@@ -1,4 +1,4 @@
-### Projeto simples de php estilo CRUD
+### Projeto simples de php (página de contato)
 
 [![php](https://brasilwork.com.br/wp-content/uploads/2015/06/php-logo.png)](http://www.php.net)
 

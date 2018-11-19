@@ -1,16 +1,5 @@
 <?php
 
-
-
-
-
-
-
-
-
-
-
-
 function send(array $data) {
   $email = new PHPMailer\PHPMailer\PHPMailer;
   $email->CharSet = 'UTF-8';
